@@ -20,7 +20,7 @@ Through [Hokies Sleep Well Campaign](https://hokiewellness.vt.edu/students/progr
 
 **Need:** No physical information or instructions are available for using the EnergyPods. Virginia Tech invested $40,000 in the EnergyPods to promote student wellbeing. Students should have the knowledge on how to best use these resources.
 
-> !!! note "Disclaimer"
+> !!! note
 > The writers of this user guide are not the EnergyPod developers. Some information draws from publically available information.
   
 ## What This Guide Will Cover
