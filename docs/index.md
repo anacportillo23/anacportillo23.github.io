@@ -1,4 +1,4 @@
-# EnergyPod User Guide for Virginia Tech Patron
+# EnergyPod User Guide for Virginia Tech Patrons
 
 <img src="https://hackmd.io/_uploads/rkDL5eQ61e.jpg" alt ="drawing" width="300">  
 
