@@ -48,14 +48,17 @@ Here are Google Maps directions to each campus building that have EnergyPods.
 
 [Google Maps of Squires Student Center, 2nd Floor](https://www.google.com/maps/dir//Squires+Student+Center,+College+Avenue,+Blacksburg,+VA/@37.2282651,-80.4587144,13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x884d9511f04b9779:0x6abfc9cc2761323c!2m2!1d-80.4179643!2d37.2296781?entry=ttu&g_ep=EgoyMDI1MDMyNC4wIKXMDSoASAFQAw%3D%3D)
 ![Squires Student Center](https://hackmd.io/_uploads/rJnDcpzCJx.png)
+
 *Photo of the red brick and glass exterior of Squires Student Center.*
 
 [Google Maps of Carol M. Newman Library](https://www.google.com/maps/dir//Newman+Library,+Drillfield+Drive,+Blacksburg,+VA/@37.2287987,-80.4606919,13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x884d950c95267087:0x175a82ad5093e50d!2m2!1d-80.4196396!2d37.228936?entry=ttu&g_ep=EgoyMDI1MDMyNC4wIKXMDSoASAFQAw%3D%3D)
 ![Carol M. Newman Library](https://hackmd.io/_uploads/rkQYcaGC1l.png)
+
 *Photo of the round semi-circle Hokie Stone exterior of the Newman Library.*
 
 [Google Maps of Graduate Life Center, Wellness Room](https://www.google.com/maps/dir//Graduate+Life+Center+at+Virginia+Tech+Graduate+School,+Otey+Street,+Blacksburg,+VA/@37.2282651,-80.4587144,13z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x884d950cb66bb3db:0x7daa3b62530ba8f7!2m2!1d-80.4175147!2d37.2282722?entry=ttu&g_ep=EgoyMDI1MDMyNC4wIKXMDSoASAFQAw%3D%3D)
 ![Graduate Life Center](https://hackmd.io/_uploads/HJ79cazCkl.png)
+
 *Photo of the red brick white pillared exterior of the Graduate Life Center.*
 
 ## Diagram of the i20 EnergyPod Console
@@ -66,16 +69,21 @@ Here are Google Maps directions to each campus building that have EnergyPods.
 
 ## How to Use the EnergyPod
 > [!Caution]
+
 > Do not use magnets and magnetic devices or consume liquid beverages while operating the EnergyPod. This may cause harm to you and the EnergyPod. 
 1. Use the sanitizing wipes located next to the EnergyPod and wipe down the leather chair. 
 2. After the seat is dry to the touch—sit down in the EnergyPod seat. Adjust the incline and recline settings located on the i20 EnergyPod console to obtain a comfortable fit.
 3. Place your belongings in the interior EnergyPod cubby.
+
 > [!Important]
+
 > Protect your valuables such as your cellphone and wallet by putting them in the interior cubby.
-4. Turn the privacy shield to cover your upper body.
-5. Press the green start button to begin your nap. This will begin the timer, and its default is 20 minutes. (If you want to leave the chair before the timer is up, press the red stop button twice.)
+
+1. Turn the privacy shield to cover your upper body.
+2. Press the green start button to begin your nap. This will begin the timer, and its default is 20 minutes. (If you want to leave the chair before the timer is up, press the red stop button twice.)
 
 > [!Warning]
+
 > If you wear contact lenses remove your lenses before taking a nap: sleeping with contact lenses is an unsafe practice and can lead to eye dryness, irritation, and infection.
 
 6. During the last minute of your nap gentle lights, noises, and vibrations will play to wake you up.
@@ -115,6 +123,7 @@ According to the CEO of Pzizz, [Rockwell Sha](https://www.theverge.com/2016/7/1/
 Using Pzizz in the EnergyPods will provide users with an elevated resting experience. Three twenty-minute listening tracks are available for EnergyPod users to choose from.
 
 > [!Tip] 
+
 > To select a track, refer to the console diagram. You need to use the button that looks like a music note. It is located in the top right area of the console.
 
 ### Track 1 by EnergyPod
