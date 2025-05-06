@@ -69,16 +69,21 @@ Here are Google Maps directions to each campus building that have EnergyPods.
 
 ## How to Use the EnergyPod
 > [!Caution]
+
 > Do not use magnets and magnetic devices or consume liquid beverages while operating the EnergyPod. This may cause harm to you and the EnergyPod. 
 1. Use the sanitizing wipes located next to the EnergyPod and wipe down the leather chair. 
 2. After the seat is dry to the touch—sit down in the EnergyPod seat. Adjust the incline and recline settings located on the i20 EnergyPod console to obtain a comfortable fit.
 3. Place your belongings in the interior EnergyPod cubby.
+
 > [!Important]
+
 > Protect your valuables such as your cellphone and wallet by putting them in the interior cubby.
-4. Turn the privacy shield to cover your upper body.
-5. Press the green start button to begin your nap. This will begin the timer, and its default is 20 minutes. (If you want to leave the chair before the timer is up, press the red stop button twice.)
+
+1. Turn the privacy shield to cover your upper body.
+2. Press the green start button to begin your nap. This will begin the timer, and its default is 20 minutes. (If you want to leave the chair before the timer is up, press the red stop button twice.)
 
 > [!Warning]
+
 > If you wear contact lenses remove your lenses before taking a nap: sleeping with contact lenses is an unsafe practice and can lead to eye dryness, irritation, and infection.
 
 6. During the last minute of your nap gentle lights, noises, and vibrations will play to wake you up.
@@ -118,6 +123,7 @@ According to the CEO of Pzizz, [Rockwell Sha](https://www.theverge.com/2016/7/1/
 Using Pzizz in the EnergyPods will provide users with an elevated resting experience. Three twenty-minute listening tracks are available for EnergyPod users to choose from.
 
 > [!Tip] 
+
 > To select a track, refer to the console diagram. You need to use the button that looks like a music note. It is located in the top right area of the console.
 
 ### Track 1 by EnergyPod
