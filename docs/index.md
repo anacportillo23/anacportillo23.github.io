@@ -193,9 +193,10 @@ Researchers should have access to the three EnergyPods' data. Then, they could d
 > If the EnergyPod is not working, please notify a Virginia Tech employee. Please do not attempt to unplug or interact with live cables yourself.
 
 If an issue arises with the EnergyPod—these steps may be followed in the following manner by a designated EnergyPod technician:
+
 1. Check the power connection. 
 2. Unplug the EnergyPod's power cables from the electrical outlet.
-3. Keep the EnergyPod unplugged for one minute.  
+3. Keep the EnergyPod unplugged for one minute.
 4. Plug the EnergyPod power cable back into the electrical outlet. 
 
 If the issue cannot be  identified, users should test each console function individually to determine which features are working correctly and which are not. 
