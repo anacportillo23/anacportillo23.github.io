@@ -87,7 +87,7 @@ Here are Google Maps directions to each campus building that have EnergyPods.
 ## EnergyPod Features
 
 
-### Relaxation Elements
+### Elements
 
 * **Massage Vibration**
 A vibration wakes users at the end of their session. 
@@ -127,7 +127,7 @@ This is the default track when you press the "Select Music Track" button **one t
 ### Track 2 by Pzizz
 This is the track when you press the "Select Music Track" button **twice.** If you have already pressed it once to start playing Track 1, then you only need to press it one more time.
 
-This track includes the most musical composition. It has marimba tones and string instrumentals, as well as wave noise and seagulls later on.
+This track includes musical composition. It has marimba tones and string instrumentals, as well as wave noise and seagulls later on.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sDMV0lg222c?si=-5AYNbUlmxTsEO3L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -226,6 +226,7 @@ A comfortable and efficient design.
 * **i20**
 The firmware that the EnergyPod runs on.
 
-## Thank you!
+## You now know how to use all of the EnergyPod’s features. We hope you’ll refer to this guide to locate and use the EnergyPods located around VT’s campus. Thank you and happy napping!
+
 
 
