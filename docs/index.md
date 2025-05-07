@@ -77,7 +77,7 @@ Here are Google Maps directions to each campus building that have EnergyPods.
 2. Press the green start button to begin your nap. This will begin the timer, and its default is 20 minutes. (If you want to leave the chair before the timer is up, press the red stop button twice.)
 
 > !!! Warning 
-> If you wear contact lenses remove your lenses before taking a nap: sleeping with contact lenses is an unsafe practice and can lead to eye dryness, irritation, and infection.
+> If you wear contact lenses, remove your lenses before taking a nap: sleeping with contact lenses is an unsafe practice and can lead to eye dryness, irritation, and infection.
 
 6. During the last minute of your nap gentle lights, noises, and vibrations will play to wake you up.
 7. Collect your belongings before exiting the EnergyPod.
