@@ -65,6 +65,7 @@ Here are Google Maps directions to each campus building that have EnergyPods.
 > !!! Caution
 > Do not use magnets and magnetic devices or consume liquid beverages while operating the EnergyPod. This may cause harm to you and the EnergyPod. 
 
+### Before Your Nap
 1. Use the sanitizing wipes located next to the EnergyPod and wipe down the leather chair. 
 2. After the seat is dry to the touch—sit down in the EnergyPod seat. Adjust the incline and recline settings located on the i20 EnergyPod console to obtain a comfortable fit.
 3. Place your belongings in the interior EnergyPod cubby.
@@ -78,6 +79,7 @@ Here are Google Maps directions to each campus building that have EnergyPods.
 > !!! Warning 
 > If you wear contact lenses, remove your lenses before taking a nap: sleeping with contact lenses is an unsafe practice and can lead to eye dryness, irritation, and infection.
 
+### After Your Nap
 6. During the last minute of your nap gentle lights, noises, and vibrations will play to wake you up.
 7. Collect your belongings before exiting the EnergyPod.
 8. Using a new sanitizing wipe, clean off the EnergyPod's cushion surface. 
