@@ -39,12 +39,7 @@ Through [Hokies Sleep Well Campaign](https://hokiewellness.vt.edu/students/progr
 * [EnergyPod Troubleshooting](#energypod-troubleshooting)
 * [FAQs](#faqs)
 * [Term Index](#term-index)
-
-
-
-
-
-
+#
 # Primary Guide
 
 ## Locations of EnergyPods in VT Campus Buildings
