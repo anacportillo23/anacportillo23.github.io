@@ -65,6 +65,7 @@ Here are Google Maps directions to each campus building that have EnergyPods.
 ## How to Use the EnergyPod
 > !!! Caution
 > Do not use magnets and magnetic devices or consume liquid beverages while operating the EnergyPod. This may cause harm to you and the EnergyPod. 
+
 1. Use the sanitizing wipes located next to the EnergyPod and wipe down the leather chair. 
 2. After the seat is dry to the touch—sit down in the EnergyPod seat. Adjust the incline and recline settings located on the i20 EnergyPod console to obtain a comfortable fit.
 3. Place your belongings in the interior EnergyPod cubby.
