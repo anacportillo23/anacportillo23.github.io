@@ -60,9 +60,7 @@ Here are Google Maps directions to each campus building that have EnergyPods.
 
 ## Diagram of the i20 EnergyPod Console
 ![Console Display](https://hackmd.io/_uploads/SyqmKobCJl.png)
-*Labeled diagram of the i20 EnergyPod console buttons from left to right.* 
-*First row: Green start button, LED Display Nap Timer, Recline, Select Music Track, Lights, Vibrate.*
-*Second row: Red stop button, Shorten Time and Add Time for the Nap Timer, Incline, Mute, Decrease Volume, Increase Volume, and a Headphone Jack.* 
+*Labeled diagram of the i20 EnergyPod console buttons.*
 
 ## How to Use the EnergyPod
 > !!! Caution
