@@ -23,22 +23,22 @@ Through [Hokies Sleep Well Campaign](https://hokiewellness.vt.edu/students/progr
   
 ## What This Guide Will Cover
 ### Primary Guide
-* [Locations Around Virginia Tech](#Locations-of-EnergyPods-in-VT-Campus-Buildings)
-* [Diagram of the i20 EnergyPod Console](#Diagram-of-the-i20-EnergyPod-Console)
-* [How to Use the EnergyPod](#How-to-Use-the-EnergyPod)
-* [EnergyPod Features](#EnergyPod-Features)
-* [Music Tracks](#Music-Tracks)
+* [Locations Around Virginia Tech](#locations-of-energypods-in-vt-campus-buildings)
+* [Diagram of the i20 EnergyPod Console](#diagram-of-the-i20-energypod-console)
+* [How to Use the EnergyPod](#how-to-use-the-energypod)
+* [EnergyPod Features](#energypod-features)
+* [Music Tracks](#music-tracks)
 
 ### Background Information
-* [Creation of MetroNaps](#Creation-of-MetroNaps)
-* [Benefits of the Energy Pod](#Benefits-of-the-EnergyPod)
-* [How Do College Student Nap](#How-Do-College-Students-Nap?)
-* [Future Considerations](#Future-Considerations)
+* [Creation of MetroNaps](#creation-of-metronaps)
+* [Benefits of the Energy Pod](#benefits-of-the-energypod)
+* [How Do College Students Nap](#how-do-college-students-nap)
+* [Future Considerations](#future-considerations)
 
 ### Additional Support
-* [EnergyPod Troubleshooting](#EnergyPod-Troubleshooting)
-* [FAQs](#FAQs)
-* [Term Index](#Term-Index)
+* [EnergyPod Troubleshooting](#energypod-troubleshooting)
+* [FAQs](#faqs)
+* [Term Index](#term-index)
 
 
 # Primary Guide
