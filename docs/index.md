@@ -117,7 +117,7 @@ Using Pzizz in the EnergyPods will provide users with an elevated resting experi
 > To select a track, refer to the console diagram. You need to use the button that looks like a music note. It is located in the top right area of the console.
 
 ### Track 1 by EnergyPod
-This is the default track when you press the "Select Music Track" button **one time.** Track 1 has the most energetic piano instrumentals.
+Track 1 has the most energetic piano instrumentals. Press the "Select Music Track" button **one time** to start it.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9q4h3j3PUVg?si=A7NdzxCU5WSctYng" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
