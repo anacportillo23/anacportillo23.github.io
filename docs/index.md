@@ -61,9 +61,11 @@ Here are Google Maps directions to each campus building that have EnergyPods.
 ![Console Display](https://hackmd.io/_uploads/SyqmKobCJl.png)
 *Labeled diagram of the i20 EnergyPod console buttons.*
 
-## How to Use the EnergyPod
+
 > !!! Caution
 > Do not use magnets and magnetic devices or consume liquid beverages while operating the EnergyPod. This may cause harm to you and the EnergyPod. 
+
+## How to Use the EnergyPod
 
 ### Before Your Nap
 > !!! Important
