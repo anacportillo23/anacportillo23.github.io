@@ -117,7 +117,9 @@ Using Pzizz in the EnergyPods will provide users with an elevated resting experi
 > To select a track, refer to the console diagram. You need to use the button that looks like a music note. It is located in the top right area of the console.
 
 ### Track 1 by EnergyPod
-Track 1 has the most energetic piano instrumentals. Press the "Select Music Track" button **one time** to start it.
+Track 1 has energetic piano instrumentals, whereas the other tracks are more calm.
+
+To select, press the "Select Music Track" button **one time**.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9q4h3j3PUVg?si=A7NdzxCU5WSctYng" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
@@ -125,7 +127,7 @@ Track 1 has the most energetic piano instrumentals. Press the "Select Music Trac
 ### Track 2 by Pzizz
 Track 2 includes musical composition with marimba tones and string instrumentals, as well as wave noise and seagulls later on.
 
-Press the "Select Music Track" button **twice.** If you have already pressed it once to start playing Track 1, then you only need to press it one more time.
+To select, press the "Select Music Track" button **twice.** If you have already pressed it once to start playing Track 1, then you only need to press it one more time.
 
 
 
@@ -134,11 +136,9 @@ Press the "Select Music Track" button **twice.** If you have already pressed it 
 
 
 ### Track 3 by Pzizz
-This is the track when you press the "Select Music Track" button **three times.** If you have already pressed it twice to start playing Track 2, then you only need to press it one more time.
+Track 3 includes rain noise and soothing ringing marimba tones, as well as a guided meditation by a voiceover.
 
-Online, this includes track rain noise and soothing ringing marimba tones, as well as a guided meditation by a female voiceover.
-
-Found in the EnergyPod itself, the female voiceover is replaced by a guided meditation by Pzizz's male voiceover, Matthew.
+To select, press the "Select Music Track" button **three times.** If you have already pressed it twice to start playing Track 2, then you only need to press it one more time.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U9GtlN8ugqI?si=8O2uijoRNd63Q3ZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
