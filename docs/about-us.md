@@ -16,4 +16,4 @@ This is her [LinkedIn]().
 ## Fahim Hassan
 When this guide was developed, Fahim was a freshman (VT '28) majoring in Computer Science.
 
-This is his [LinkedIn](https://www.linkedin.com/in/fahim-hassan-1244321a6/).
+This is his [LinkedIn]().
