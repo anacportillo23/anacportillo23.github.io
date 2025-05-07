@@ -62,7 +62,7 @@ Here are Google Maps directions to each campus building that have EnergyPods.
 
 ![Graduate Life Center](https://hackmd.io/_uploads/HJ79cazCkl.png)
 
-*Photo of the red brick white pillared exterior of the Graduate Life Center.*
+    *Photo of the red brick white pillared exterior of the Graduate Life Center.*
 
 ## Diagram of the i20 EnergyPod Console
 ![Console Display](https://hackmd.io/_uploads/SyqmKobCJl.png)
