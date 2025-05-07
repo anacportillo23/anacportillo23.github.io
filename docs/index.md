@@ -39,8 +39,7 @@ Through [Hokies Sleep Well Campaign](https://hokiewellness.vt.edu/students/progr
 * [EnergyPod Troubleshooting](#energypod-troubleshooting)
 * [FAQs](#faqs)
 * [Term Index](#term-index)
-
-
+#
 # Primary Guide
 
 ## Locations of EnergyPods in VT Campus Buildings
@@ -73,8 +72,8 @@ Here are Google Maps directions to each campus building that have EnergyPods.
 > !!! Important
 > Protect your valuables such as your cellphone and wallet by putting them in the interior cubby.
 
-1. Turn the privacy shield to cover your upper body.
-2. Press the green start button to begin your nap. This will begin the timer, and its default is 20 minutes. (If you want to leave the chair before the timer is up, press the red stop button twice.)
+4. Turn the privacy shield to cover your upper body.
+5. Press the green start button to begin your nap. This will begin the timer, and its default is 20 minutes. (If you want to leave the chair before the timer is up, press the red stop button twice.)
 
 > !!! Warning 
 > If you wear contact lenses, remove your lenses before taking a nap: sleeping with contact lenses is an unsafe practice and can lead to eye dryness, irritation, and infection.
@@ -142,7 +141,8 @@ Found in the EnergyPod itself, the female voiceover is replaced by a guided medi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U9GtlN8ugqI?si=8O2uijoRNd63Q3ZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
+#
+#
 # Background Information
 
 ## Creation of MetroNaps
@@ -182,6 +182,8 @@ The EnergyPods cost a hefty $13,000 each. Since Virginia Tech has purchased thre
 
 Researchers should have access to the three EnergyPods' data. Then, they could determine exact napping patterns for Hokies—including which EnergyPods are used most frequently, their most popular times for use, and the average duration of use.
 
+#
+#
 # Additional Support
 
 ## EnergyPod Troubleshooting
