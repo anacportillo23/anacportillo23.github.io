@@ -62,18 +62,14 @@ Here are Google Maps directions to each campus building that have EnergyPods.
 *Labeled diagram of the i20 EnergyPod console buttons.*
 
 
+## How to Use the EnergyPod
 > !!! Caution
 > Do not use magnets and magnetic devices or consume liquid beverages while operating the EnergyPod. This may cause harm to you and the EnergyPod. 
 
-## How to Use the EnergyPod
-
 ### Before Your Nap
-> !!! Important
-> Protect your valuables such as your cellphone and wallet by putting them in the interior cubby.
-
 1. Use the sanitizing wipes located next to the EnergyPod and wipe down the leather chair. 
 2. After the seat is dry to the touch—sit down in the EnergyPod seat. Adjust the incline and recline settings located on the i20 EnergyPod console to obtain a comfortable fit.
-3. Place your belongings in the interior EnergyPod cubby.
+3. Protect your valuables (cellphone, wallet, etc.) by placing your belongings in the interior EnergyPod cubby.
 4. Turn the privacy shield to cover your upper body.
 5. Press the green start button to begin your nap. This will begin the timer, and its default is 20 minutes. (If you want to leave the chair before the timer is up, press the red stop button twice.)
 
