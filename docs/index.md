@@ -5,18 +5,18 @@
 *A user rests in the EnergyPod in Squires Student Center at Virginia Tech.*
 
 
-EnergyPods promote restfulness and rejuvenation for stressed and/or sleep-deprived employees through short 15-20 minute naps.
+EnergyPods promote restfulness and rejuvenation for stressed and/or sleep-deprived employees through short 15-20 minute naps. Virginia Tech provides access to EnergyPods in three campus locations. This guide helps students use the EnergyPods properly.
 
 ## Hokies Sleep Well Campaign  
-Through [Hokies Sleep Well Campaign](https://hokiewellness.vt.edu/students/program_areas/sleep.html), designed to promote healthy sleep habits for Virginia Tech students—three EnergyPods were installed in various campus locations. Students who do not regularly sleep for the recommended seven to eight hours, will likely find this sleep habit detrimental—regarding both their physical and mental health, as well as their schoolwork. EnergyPods allow Hokies to squeeze in quick naps between classes to improve productivity and increase alertness. Enter, the EnergyPod at Virginia Tech.
+Through [Hokies Sleep Well Campaign](https://hokiewellness.vt.edu/students/program_areas/sleep.html), designed to promote healthy sleep habits for Virginia Tech students, the university installed three EnergyPods in various campus locations. Students who do not regularly sleep for the recommended seven to eight hours, will likely find this sleep habit detrimental—regarding both their physical and mental health, as well as their schoolwork. EnergyPods allow Hokies to squeeze in quick naps between classes to improve productivity and increase alertness. Enter, the EnergyPod at Virginia Tech.
 
 ## The Problem at VT
 
-**Despite these efforts, Virginia Tech  fails to adeptly explain and provide detailed instructions for EnergyPod users.** Certain features of the EnergyPod are not intuitive—leading to frequent user confusion or the misuse of EnergyPod features (which was seen firsthand by Virginia Tech students). Additionally, Hokie Wellness does not mention the EnergyPod on their website. Adding a brief instructional guide to the EnergyPod may prove beneficial for user experience.
+**Despite these efforts, Virginia Tech  fails to adequately explain and provide detailed instructions for EnergyPod users.** Certain features of the EnergyPod are not intuitive—leading to frequent user confusion or the misuse of EnergyPod features (which we witnessed firsthand when writing the guide). Additionally, Hokie Wellness does not mention the EnergyPod on their website. Adding a brief instructional guide to the EnergyPod may prove beneficial for user experience.
 
 **Primary Users:** Tired Hokies looking to recharge with a quick nap. 
 
-**Need:** No physical information or instructions are available for using the EnergyPods. Virginia Tech invested $40,000 in the EnergyPods to promote student wellbeing. Students should have the knowledge on how to best use these resources.
+**Need:** No physical how-to infographics exist for using the EnergyPods. Most current users overlook the additional functions due to the lack of instructions on the machine. Virginia Tech invested $40,000 in the EnergyPods to promote student wellbeing. Students should have the knowledge on how to best use these resources.
 
 > !!! note
 > The writers of this user guide are not the EnergyPod developers. Some information draws from publicly available information.
@@ -24,7 +24,7 @@ Through [Hokies Sleep Well Campaign](https://hokiewellness.vt.edu/students/progr
 ## What This Guide Will Cover
 ### Primary Guide
 * [Locations Around Virginia Tech](#Locations-of-EnergyPods-in-VT-Campus-Buildings)
-* [Diagram of the i20 EnergyPod Console](Diagram-of-the-i20-EnergyPod-Console)
+* [Diagram of the i20 EnergyPod Console](#Diagram-of-the-i20-EnergyPod-Console)
 * [How to Use the EnergyPod](#How-to-Use-the-EnergyPod)
 * [EnergyPod Features](#EnergyPod-Features)
 * [Music Tracks](#Music-Tracks)
