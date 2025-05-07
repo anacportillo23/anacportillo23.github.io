@@ -182,6 +182,8 @@ The EnergyPods cost a hefty $13,000 each. Since Virginia Tech has purchased thre
 
 Researchers should have access to the three EnergyPods' data. Then, they could determine exact napping patterns for Hokies—including which EnergyPods are used most frequently, their most popular times for use, and the average duration of use.
 
+#
+#
 # Additional Support
 
 ## EnergyPod Troubleshooting
