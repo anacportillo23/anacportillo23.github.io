@@ -49,16 +49,19 @@ Here are Google Maps directions to each campus building that have EnergyPods.
 [Google Maps of Squires Student Center, 2nd Floor](https://www.google.com/maps/dir//Squires+Student+Center,+College+Avenue,+Blacksburg,+VA/@37.2282651,-80.4587144,13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x884d9511f04b9779:0x6abfc9cc2761323c!2m2!1d-80.4179643!2d37.2296781?entry=ttu&g_ep=EgoyMDI1MDMyNC4wIKXMDSoASAFQAw%3D%3D)
 
 ![Squires Student Center](https://hackmd.io/_uploads/rJnDcpzCJx.png)
+
 *Photo of the red brick and glass exterior of Squires Student Center.*
 
 [Google Maps of Carol M. Newman Library](https://www.google.com/maps/dir//Newman+Library,+Drillfield+Drive,+Blacksburg,+VA/@37.2287987,-80.4606919,13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x884d950c95267087:0x175a82ad5093e50d!2m2!1d-80.4196396!2d37.228936?entry=ttu&g_ep=EgoyMDI1MDMyNC4wIKXMDSoASAFQAw%3D%3D)
 
 ![Carol M. Newman Library](https://hackmd.io/_uploads/rkQYcaGC1l.png)
+
 *Photo of the round semi-circle Hokie Stone exterior of the Newman Library.*
 
 [Google Maps of Graduate Life Center, Wellness Room](https://www.google.com/maps/dir//Graduate+Life+Center+at+Virginia+Tech+Graduate+School,+Otey+Street,+Blacksburg,+VA/@37.2282651,-80.4587144,13z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x884d950cb66bb3db:0x7daa3b62530ba8f7!2m2!1d-80.4175147!2d37.2282722?entry=ttu&g_ep=EgoyMDI1MDMyNC4wIKXMDSoASAFQAw%3D%3D)
 
 ![Graduate Life Center](https://hackmd.io/_uploads/HJ79cazCkl.png)
+
 *Photo of the red brick white pillared exterior of the Graduate Life Center.*
 
 ## Diagram of the i20 EnergyPod Console
