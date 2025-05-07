@@ -123,9 +123,11 @@ Track 1 has the most energetic piano instrumentals. Press the "Select Music Trac
 
 
 ### Track 2 by Pzizz
-This is the track when you press the "Select Music Track" button **twice.** If you have already pressed it once to start playing Track 1, then you only need to press it one more time.
+Track 2 includes musical composition with marimba tones and string instrumentals, as well as wave noise and seagulls later on.
 
-This track includes musical composition. It has marimba tones and string instrumentals, as well as wave noise and seagulls later on.
+Press the "Select Music Track" button **twice.** If you have already pressed it once to start playing Track 1, then you only need to press it one more time.
+
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sDMV0lg222c?si=-5AYNbUlmxTsEO3L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
