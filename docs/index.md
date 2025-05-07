@@ -72,8 +72,8 @@ Here are Google Maps directions to each campus building that have EnergyPods.
 > !!! Important
 > Protect your valuables such as your cellphone and wallet by putting them in the interior cubby.
 
-1. Turn the privacy shield to cover your upper body.
-2. Press the green start button to begin your nap. This will begin the timer, and its default is 20 minutes. (If you want to leave the chair before the timer is up, press the red stop button twice.)
+4. Turn the privacy shield to cover your upper body.
+5. Press the green start button to begin your nap. This will begin the timer, and its default is 20 minutes. (If you want to leave the chair before the timer is up, press the red stop button twice.)
 
 > !!! Warning 
 > If you wear contact lenses, remove your lenses before taking a nap: sleeping with contact lenses is an unsafe practice and can lead to eye dryness, irritation, and infection.
