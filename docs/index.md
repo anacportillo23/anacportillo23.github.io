@@ -2,7 +2,7 @@
 
 <img src="https://hackmd.io/_uploads/rkDL5eQ61e.jpg" alt ="drawing" width="300">  
 
-*A user rests in the EnergyPod in Squires Student Center at Virginia Tech.*
+*A user and Virginia Tech's Squires EnergyPod.*
 
 
 EnergyPods promote restfulness and rejuvenation for stressed and/or sleep-deprived employees through short 15-20 minute naps. Virginia Tech provides access to EnergyPods in three campus locations. This guide helps students use the EnergyPods properly.
