@@ -9,7 +9,7 @@ As of Spring 2025, Anja is a senior (VT '25) triple-majoring in Technical Writin
 
 
 ### Ana Portillo
-As of Spring 2025, Ana is a sophomore (VT '26) double-majoring in Technical Writing and Creative Writing. She wants to pursue an MFA in Creative Writing to become a professor at a university. This is her [LinkedIn](https://www.linkedin.com/in/aportillo26/).
+As of Spring 2025, Ana is a sophomore (VT '26) double-majoring in Technical Writing and Creative Writing. She wants to pursue an MFA in Creative Writing to become a professor at a university. This is her [LinkedIn](https://www.linkedin.com/in/ana-portillo26/).
 
 
 ### Fahim Hassan
