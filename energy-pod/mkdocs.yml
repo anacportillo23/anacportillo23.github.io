@@ -1,5 +1,5 @@
 site_name: EnergyPod User Guide for Virginia Tech Students
-site_url: https://anacportillo23.github.io/site
+site_url: https://anacportillo23.github.io/energy-pod/site
 theme:
   name: material
 markdown_extensions:
