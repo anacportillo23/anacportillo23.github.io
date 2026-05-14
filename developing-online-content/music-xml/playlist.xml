@@ -2,6 +2,36 @@
 <?xml-stylesheet type="text/xsl" href="playlist.xsl"?>
 <playlist>
   <track>
+    <title>0X1=LOVESONG (I Know I Love You)</title>
+    <artist>TXT</artist>
+    <album>The Chaos Chapter: FREEZE</album>
+    <link>https://youtu.be/d5bbqKYu51w?si=u_UeYQUr4vMC5611</link>
+  </track>
+  <track>
+    <title>LO$ER=LO♡ER</title>
+    <artist>TXT</artist>
+    <album>The Chaos Chapter: FIGHT OR ESCAPE</album>
+    <link></link>
+  </track>
+  <track>
+    <title>Back to Life</title>
+    <artist>&Team</artist>
+    <album>Back to Life</album>
+    <link>https://youtu.be/KqE0P1qMtQg?si=5F_sQHYZvFwPXHuB</link>
+  </track>
+  <track>
+    <title>Gracias A La Vida</title>
+    <artist>Mercedes Sosa</artist>
+    <album>Homenaje a Violeta Parra</album>
+    <link>https://youtu.be/cIrGQD84F1g?si=KV0avjkWNz4Kaqdy</link>
+  </track>
+  <track>
+    <title>La Foto de Carnet</title>
+    <artist>Leonardo Favio</artist>
+    <album>Mi Historia - Volumen 1</album>
+    <link>https://youtu.be/cIrGQD84F1g?si=KV0avjkWNz4Kaqdy</link>
+  </track>
+  <track>
     <title>Untitled (How does it feel?)</title>
     <artist>D'Angelo</artist>
     <album>Voodoo</album>
@@ -12,11 +42,5 @@
     <artist>Bjork</artist>
     <album>Post</album>
     <link>https://www.youtube.com/watch?v=kye1TOlAWWw</link>
-  </track>
-  <track>
-    <title>0X1=LOVESONG (I Know I Love You)</title>
-    <artist>TXT</artist>
-    <album>Post</album>
-    <link>https://youtu.be/d5bbqKYu51w?si=u_UeYQUr4vMC5611</link>
   </track>
 </playlist>
